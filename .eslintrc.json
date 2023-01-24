@@ -10,7 +10,7 @@
         "jsx": true
       },
       "ecmaVersion": 2018,
-      "sourceType": "module"
+      "sourceType": "components"
     },
     "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended"],
     "plugins": ["react"],

@@ -40,7 +40,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Math-matician-project]** is a react project basically just asetup of react in my local machine
+**[Math-matician-project]** is a react project basically just asetup of react in my local machine and creating a calculator using components
 
 ## 🛠 Built With <a name="built-with"></a>
 React
@@ -217,7 +217,7 @@ I would like to thank Microverse for giving me this opportunity to learn and eve
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/monicah79/math-matician-project/blob/dev/License) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 

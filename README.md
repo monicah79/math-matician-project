@@ -40,7 +40,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Math-matician-project]** is a react project basically just asetup of react in my local machine and creating a calculator using components
+**[Math-matician-project]** is a react project basically just asetup of react in my local machine and creating a calculator using components and refactoring using without changing its functionalitya
 
 ## 🛠 Built With <a name="built-with"></a>
 React

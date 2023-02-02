@@ -1,0 +1,11 @@
+.calculator {
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+.intro {
+  margin: 20px;
+  width: 100%;
+}

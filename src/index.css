@@ -10,15 +10,26 @@ body {
 }
 
 .App {
-  display: flex;
   justify-content: center;
   height: 100vh;
   align-items: center;
+  width: 100%;
 }
 
-.calculator {
-  width: 100%;
-  max-width: 300px;
+header {
+  margin: 20px;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  color: blue;
 }
 
 .display {

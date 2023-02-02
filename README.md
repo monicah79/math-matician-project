@@ -90,7 +90,7 @@ Html
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://monicah79.github.io/math-matician-project/)
+- [Live Demo Link](https://math-matician-app-project.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
